@@ -1,0 +1,25 @@
+<resources>
+
+    <!-- Nombre de la aplicación -->
+    <string name="app_name">Spinner</string>
+
+    <!-- Cadenas de la aplicación -->
+    <string name="mensaje">Selecciona tu idioma</string>
+    <string name="snack">Has elegido el </string>
+
+    <!-- Array de idiomas -->
+    <string-array name="idiomas">
+        <item>Español</item>
+        <item>Inglés</item>
+        <item>Francés</item>
+        <item>Italiano</item>
+        <item>Ruso</item>
+        <item>Latín</item>
+        <item>Japonés</item>
+        <item>Gallego</item>
+        <item>Alemán</item>
+        <item>Holandés</item>
+        <item>Catalán</item>
+    </string-array>
+
+</resources>
